@@ -1,0 +1,20 @@
+CORRECCIÓN — PRÁCTICA 0-A: HELLO WORLD
+
+Estado: PENDIENTE DE COMPLETAR.
+
+La práctica todavía no está hecha: has creado el repositorio
+y el README inicial, pero falta realizar el flujo de trabajo.
+
+Debes completar estos pasos:
+1. Crear la rama editar-readme desde main.
+2. Modificar el README conservando el encabezado
+   y añadiendo una breve presentación.
+3. Guardar el cambio mediante un commit descriptivo.
+4. Abrir una pull request de editar-readme hacia main,
+   con título y descripción que expliquen el cambio.
+5. Fusionar la pull request.
+
+Todavía queda trabajo por hacer. Cuando termines,
+avísame para que vuelva a revisar la práctica.
+
+Esta devolución no da la práctica por completada.
